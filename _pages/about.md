@@ -66,7 +66,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Under Review</div>
-    <img src='images/Example_page-0002.png' alt="CAST Framework Architecture" width="100%">
+    <img src='images/TADA_pipeline.jpg' alt="CAST Framework Architecture" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>CAST: Achieving Stable LLM-based Text Analysis for Data Analytics</h3>
@@ -258,19 +258,4 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
 
-  <div class="blog-card">
-    <div class="blog-card-image">
-      <div class="blog-badge">August, 2023</div>
-      <img src="images/pic01.jpg" alt="Prompt Engineering">
-    </div>
-    <div class="blog-card-content">
-      <div class="blog-title">Prompt Engineering: How to Better Ask LLMs</div>
-      <div class="blog-description">Introduce a number of methods for optimizing the output of large language models and reducing the probability of irrelevant or incorrect responses.</div>
-      <div class="blog-links">
-        <a href="https://sspai.com/post/82322" class="blog-link">
-          <i class="fas fa-language"></i> 中文版
-        </a>
-      </div>
-    </div>
-  </div>
 </div>
