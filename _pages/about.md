@@ -89,7 +89,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">CVPR 2026</div>
-    <img src="{{ '/images/head.jpg' | relative_url }}" alt="AMap" width="100%">
+    <img src="{{ '/images/A-Map.jpg' | relative_url }}" alt="AMap" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>AMap: Distilling Future Priors for Ahead-Aware Online HD Map Construction</h3>
