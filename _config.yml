@@ -12,8 +12,8 @@ title_separator          : "-"
 subtitle                 : 
 name                     : "Hao Shan"
 description              : ""
-url                     : "https://hao_shan.github.io"
-baseurl                 : ""
+url                     : "https://bhsh0112.github.io"
+baseurl                 : "/hao_shan.github.io"
 repository               : "bhsh0112/hao_shan.github.io"
 google_scholar_stats_use_cdn : true
 
