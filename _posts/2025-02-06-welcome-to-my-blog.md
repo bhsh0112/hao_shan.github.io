@@ -1,43 +1,33 @@
 ---
 layout: post
-title: "Welcome to My Blog"
+title: "Welcome to My Personal Page"
 date: 2025-02-06
-description: "Hello! This is my first blog post hosted directly on my personal website. Here I'll share my thoughts on AI research, NLP, and life experiences."
+description: "Welcome to my personal academic homepage. Here you can find my research on autonomous driving, HD map construction, and 3D perception."
 cover_image: /images/pic04.jpg
 categories: [Announcement]
 tags: [Blog, Welcome, Personal]
 reading_time: 2
 ---
 
-## Hello World!
+## Hello!
 
-Welcome to my personal blog! I'm excited to share my thoughts, research insights, and experiences directly on this website.
+Welcome to my personal academic homepage! I'm Hao Shan (镡昊), an undergraduate student at Beihang University - Beijing University of Technology (Dual Degree Program).
 
-### What to Expect
+### Research Interests
 
-In this blog, I'll be writing about:
+My research focuses on:
 
-- **AI Research**: Deep dives into Large Language Models (LLMs), Natural Language Processing (NLP), and cutting-edge AI technologies.
-- **Technical Tutorials**: Practical guides on implementing AI solutions, from prompt engineering to model fine-tuning.
-- **Research Journey**: My experiences as a graduate student at Nanjing University and insights from my internships at Microsoft and other institutions.
-- **Life & Thoughts**: Reflections on the intersection of technology and humanity.
+- **Online HD Map Construction**: Efficient vectorized map construction for autonomous driving
+- **3D Semantic Occupancy Prediction**: Camera-based 3D scene understanding
+- **End-to-End Autonomous Driving**: Planning and perception algorithms
 
-### Why Host Blog Posts Here?
+### What You'll Find Here
 
-While I continue to write on platforms like WeChat Public Account, Xiaohongshu, and Medium, having blog posts directly on my personal website allows me to:
+- My **publications** at ICLR, CVPR, IV, IEEE TITS/TMM
+- **Education** and **internship** experience (Xiaomi, etc.)
+- **Project** and **honors** information
+- Blog posts (when I have time to write!)
 
-1. **Full Control**: Complete ownership of my content and presentation.
-2. **Better Integration**: Seamless integration with my research and project pages.
-3. **No Platform Limitations**: Freedom to format and structure content as I see fit.
+Feel free to explore my publications, check out my projects, or reach out via the contact information in the sidebar. I'm always happy to connect with fellow researchers!
 
-### Stay Connected
-
-Feel free to explore my other blog posts, check out my publications, or reach out through the contact information on the sidebar. I'm always happy to connect with fellow researchers and enthusiasts!
-
-> "The limits of my language mean the limits of my world." - Ludwig Wittgenstein
-
-Thank you for visiting, and I hope you find something valuable here!
-
----
-
-*This is a sample post demonstrating the blog functionality. More content coming soon!*
+Thank you for visiting!

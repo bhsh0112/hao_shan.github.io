@@ -19,93 +19,103 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Jinxiang Xie</span> (pronounced "JIN-shee-ahng SHEE-eh"). I am a graduate student at <i class="fas fa-university"></i> **Nanjing University**. I earned my Bachelor's degree in Information and Computing Science from <i class="fas fa-university"></i> **Beijing Jiaotong University**. I was a research intern at <i class="fab fa-microsoft"></i> **Microsoft**, where I have the privilege of working with Principal Researcher <a href="https://www.microsoft.com/en-us/research/people/juding/" class="link-accent">Justin Ding</a>.
-Prior to this, I gained valuable research experience at <i class="fas fa-university"></i> **Peking University** under the guidance of Prof. <a href="https://wanxiaojun.github.io/" class="link-accent">Xiaojun Wan</a>.
+My name is <span class="accent-text">Hao Shan</span> (镡昊). I am an undergraduate student at <i class="fas fa-university"></i> **Beihang University** - **Beijing University of Technology** (Dual Degree Program), majoring in Computer Science and Technology. I am currently a research intern at <i class="fas fa-car"></i> **Xiaomi**, working on autonomous driving algorithm R&D.
+My research focuses on <span class="primary-gradient-text">online HD map construction</span>, <span class="primary-gradient-text">3D semantic occupancy prediction</span>, and <span class="primary-gradient-text">end-to-end autonomous driving</span>. I have published/accepted papers at top venues including <span class="accent-text">ICLR</span>, <span class="accent-text">CVPR</span>, <span class="accent-text">IV</span>, and <span class="accent-text">IEEE TITS/TMM</span>, and hold 3 authorized/applied national invention patents.
 
 <div class="quote-accent">
-My research focuses on leveraging <span class="primary-gradient-text">Large Language Models</span> to address complex problems.
+My research focuses on <span class="primary-gradient-text">autonomous driving perception and map construction</span>, with particular interest in efficient online HD mapping and 3D scene understanding.
 </div>
 
 Feel free to reach out if you'd like to discuss research or explore potential collaboration!
 
 <div class="highlight-blocks">
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-microscope"></i> AI Researcher</h3>
+    <h3><i class="fas fa-car"></i> Autonomous Driving Researcher</h3>
     <ul>
-      <li>Research focus on <span class="accent-text">LLMs and NLP</span></li>
-      <li>Internships at <span class="primary-gradient-text">top institutions</span></li>
-      <li>Publications at <span class="accent-text">AAAI</span>, <span class="accent-text">ACL</span></li>
+      <li>Research on <span class="accent-text">HD map construction</span> & <span class="accent-text">3D occupancy</span></li>
+      <li>Publications at <span class="primary-gradient-text">ICLR</span>, <span class="primary-gradient-text">CVPR</span>, <span class="primary-gradient-text">IV</span></li>
+      <li>Intern at <span class="accent-text">Xiaomi</span> Autonomous Driving</li>
     </ul>
   </div>
   
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-pen-fancy"></i> Content Creator</h3>
+    <h3><i class="fas fa-trophy"></i> Academic Excellence</h3>
     <ul>
-      <li>Technical blogs with <span class="accent-text">500K+ views</span></li>
-      <li>Active on <a href="https://www.xiaohongshu.com/user/profile/60c47bae000000000100b07e" class="link-accent">Xiaohongshu</a></li>
-      <li><a href="https://mp.weixin.qq.com/s/5wn3NvB2FBpJD1jK0L4qbQ" class="link-accent">Articles</a> about <span class="primary-gradient-text">Tech & Humanities</span></li>
+      <li>2025 FTTE <span class="accent-text">100 Future Stars</span> in Transportation</li>
+      <li>National First Prize in <span class="primary-gradient-text">Transportation Tech Competition</span></li>
+      <li>Rank <span class="accent-text">2/122</span>, GPA 88.92</li>
     </ul>
   </div>
   
   <div class="highlight-block floating-card">
-    <h3><i class="fas fa-globe-asia"></i> Life Explorer</h3>
+    <h3><i class="fas fa-lightbulb"></i> Patents & Projects</h3>
     <ul>
-      <li>Visited <span class="accent-text">9 countries</span> worldwide</li>
-      <li>Traveled to <span class="accent-text">32 provinces</span> in China</li>
-      <li>Rich experience in <span class="primary-gradient-text">social work</span></li>
+      <li><span class="accent-text">3</span> national invention patents (1st/student 1st author)</li>
+      <li>Student lead of <span class="primary-gradient-text">multiple research projects</span></li>
+      <li>Teaching assistant for C & Data Structures</li>
     </ul>
   </div>
 </div>
-
-<!-- # <i class="fas fa-fire"></i> News
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). <span class="accent-text">See you in Philadelphia!</span>
-- *2024.08*: &nbsp;I have joined <span class="primary-gradient-text">Microsoft</span> as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs. -->
 
 # <i class="fas fa-file-alt"></i> Publications 
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Under Review</div>
-    <img src='images/TADA_pipeline.jpg' alt="CAST Framework Architecture" width="100%">
+    <div class="badge pulse-accent">ICLR 2026</div>
+    <img src='images/Example_page-0001.png' alt="Stability Under Scrutiny" width="100%">
   </div>
   <div class='paper-box-text'>
-    <h3>CAST: Achieving Stable LLM-based Text Analysis for Data Analytics</h3>
-    <div class="authors"><strong>Jinxiang Xie</strong>, Zihao Li, Wei He, Rui Ding, Shi Han, Dongmei Zhang</div>
-    <div class="venue">Under Review</div>
-    <!-- <div class="links">
-      <a href="#" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-      <a href="#" class="btn-accent"><i class="fab fa-github"></i> Code</a>
-    </div> -->
+    <h3>Stability Under Scrutiny: Benchmarking Representation Paradigms for Online HD Mapping</h3>
+    <div class="authors"><strong>Hao Shan</strong>, et al.</div>
+    <div class="venue">International Conference on Learning Representations (ICLR 2026) - First Author</div>
   </div>
 </div>
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">AAAI 2025</div>
-    <img src='images/Example_page-0001.png' alt="DSGram Framework Overview" width="100%">
+    <div class="badge pulse-accent">IV 2024</div>
+    <img src='images/Example_page-0002.png' alt="E-MLP" width="100%">
   </div>
   <div class='paper-box-text'>
-    <h3>DSGram: Dynamic Weighting Sub-Metrics for Grammatical Error Correction in the Era of Large Language Models</h3>
-    <div class="authors"><strong>Jinxiang Xie</strong>, Yilin Li, Xunjian Yin, Xiaojun Wan</div>
-    <div class="venue">In The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)</div>
+    <h3>E-MLP: Effortless Online HD Map Construction with Linear Priors</h3>
+    <div class="authors">Ruikai Li, <strong>Hao Shan</strong>, Han Jiang, et al.</div>
+    <div class="venue">2024 IEEE Intelligent Vehicles Symposium (IV 2024) - Second Author</div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2412.12832" class="btn-accent"><i class="fas fa-file-alt"></i> ArXiv</a>
-      <a href="https://github.com/jxtse/GEC-Metrics-DSGram" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+      <a href="https://ieeexplore.ieee.org/document/10588612" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
     </div>
   </div>
 </div>
 
-- Qiyang Chen, Yuezhi Wang, **Jinxiang Xie**, Guozheng Li, Chi Harold Liu. $M^3$ Trader: Multimodal Macro–Micro Inference with LLM-Guided Reinforcement Learning for Quantitative Trading. **Under Review**.
+- Ruikai Li, <strong>Hao Shan</strong>, et al. **MapQP**: End-to-End Vectorized HD Map Construction with Relational Queries and Positional Encoding for Autonomous Driving. *IEEE Transactions on Intelligent Transportation Systems (TITS)*, Under Review. - Second Author
+- Ruikai Li, Zhiyong Cui, <strong>Hao Shan</strong>, et al. **OccDistill**: Boosting Efficient Camera-based 3D Semantic Occupancy Prediction via Multi-modal Guided Distillation for Autonomous Driving. *IEEE Transactions on Multimedia (TMM)*, Under Revision. - Third Author
+- Ruikai Li, Xinrun Li, Mengwei Xie, <strong>Hao Shan</strong>, et al. **AMap**: Distilling Future Priors for Ahead-Aware Online HD Map Construction. *CVPR 2026*, Under Review. - Fourth Author
+
+**Patents (3 national invention patents as 1st/student 1st author):**
+- 镡昊, 崔志勇, 李睿楷, 等. 一种基于体渲染知识蒸馏的在线矢量地图构建方法及装置. 授权发明专利
+- 任毅龙, 镡昊, 李睿楷, 等. 一种语义矢量地图构建方法、设备、存储介质及程序产品. 公开发明专利
+- 任毅龙, 镡昊, 李睿楷, 等. 基于多车协同机制的鲁棒性语义矢量地图构建方法及系统. 受理发明专利
 
 # <i class="fas fa-graduation-cap"></i> Educations
-- *2025.09 - Present*: &nbsp;Master of Science at <span class="primary-gradient-text">Kuang Yaming Honors School, Nanjing University</span>.
-- *2021.09 - 2025.06*: &nbsp;Bachelor of Science in Information and Computing Science, <span class="primary-gradient-text">Beijing Jiaotong University</span>.
+- *2022.09 - Present*: &nbsp;Bachelor of Engineering in Computer Science and Technology, <span class="primary-gradient-text">Beihang University - Beijing University of Technology (Dual Degree Program)</span>. Rank: 2/122, GPA: 88.92
 
 # <i class="fas fa-laptop-code"></i> Internships
-- *2025.08 - Present*: &nbsp;Research Intern, <a href="https://www.asintelligence.xyz/" class="link-accent">Artificial Scientific Intelligence Lab</a>, **National University of Singapore**.
-- *2024.08 - 2025.08*: &nbsp;Research Intern, <a href="https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/" class="link-accent">Data, Knowledge and Intelligence (DKI) Group</a>, **Microsoft**.
-- *2023.11 - 2024.08*: &nbsp;Research Intern, <a href="https://sai.pku.edu.cn/znxyenglish/" class="link-accent">Wangxuan Institute of Computer Technology</a>, **Peking University**.
-<!-- - *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, <a href="https://www.comp.nus.edu.sg/" class="link-accent">School of Computer</a>, **National University of Singapore**. -->
+- *2025.12 - Present*: &nbsp;Autonomous Driving Algorithm R&D Intern, <a href="https://www.mi.com/" class="link-accent">Xiaomi</a>, **Xiaomi Technology**. Working on end-to-end autonomous driving: MoE for multi-modal planning acceleration, Speculative Decoding for AR planning algorithms.
+
+<span class='anchor' id='projects'></span>
+# <i class="fas fa-project-diagram"></i> Projects
+- *2025.01 - Present*: &nbsp;Student Lead, **Vehicle-Road Integrated Intelligent Transportation Data Model and Network Security Technology Research**. Dataset construction, code implementation, patent drafting, and journal paper submission.
+- *2023.11 - 2024.09*: &nbsp;Student Lead, **Urban Traffic State Estimation Based on Connected Vehicle Trajectory Data**. Data requirement coordination, model training, communication protocol, patent drafting.
+- *2024.09 - 2025.05*: &nbsp;Student Lead, **Falcon-like Folding-wing Tilt-rotor Flying Car**. Perception control for transition phase, occupancy grid prediction, perception strategy migration, patent application.
+
+<span class='anchor' id='honors-awards'></span>
+# <i class="fas fa-award"></i> Honors & Awards
+- **2025 FTTE** 100 Future Stars in Transportation (交通运输前沿"未来之星")
+- **National First Prize**, 19th National College Student Transportation Science & Technology Competition
+- **National Second Prize**, 20th National College Student Transportation Science & Technology Competition
+- **National Third Prize**, RoboCup China
+- **Beijing Second Prize**, China International College Students' Innovation Competition (2025)
+- **Beijing Second Prize**, 19th "Challenge Cup" National College Students Extracurricular Academic Science and Technology Works Competition
+- **Beijing Second Prize**, Blue Bridge Cup National Software and IT Professionals Competition
 
 # <i class="fas fa-blog"></i> Blogs
 
@@ -141,121 +151,4 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
-<div class="external-blogs-divider">
-  <span><i class="fas fa-external-link-alt"></i> External Articles</span>
-</div>
 {% endif %}
-
-<div class="blog-grid">
-  <div class="blog-card">
-    <div class="blog-card-image">
-      <div class="blog-badge">November, 2025</div>
-      <img src="images/claude-pipeline.png" alt="Claude Code Skills 和 Subagents 的个人实践">
-    </div>
-    <div class="blog-card-content">
-      <div class="blog-title">Claude Code Skills and Subagents in Practice</div>
-      <div class="blog-description">Two production-grade systems: a paywall-crossing paper harvester and a self-iterating AI Scientist, showing how Skills + Subagents scale LLM workflows.</div>
-      <div class="blog-links">
-        <a href="https://mp.weixin.qq.com/s/_rHrBpRZX_U2Zmt8vRZ22Q" class="blog-link">
-          <i class="fas fa-language"></i> 中文版
-        </a>
-        <a href="https://jxtse.medium.com/from-chat-tools-to-research-infrastructure-building-production-grade-workflows-with-claude-code-7da19194ab34" class="blog-link">
-          <i class="fas fa-globe"></i> English
-        </a>
-      </div>
-    </div>
-  </div>
-
-<div class="blog-card">
-    <div class="blog-card-image">
-      <div class="blog-badge">June, 2025</div>
-      <img src="images/pic06.jpg" alt="The Limits of My Language Mean the Limits of My World">
-    </div>
-    <div class="blog-card-content">
-      <div class="blog-title">The Limits of My Language Mean the Limits of My World</div>
-      <div class="blog-description">Drawing on Wittgenstein's philosophy, a recent paper argues that our existing language might be the fundamental bottleneck.</div>
-      <div class="blog-links">
-        <a href="https://www.xiaohongshu.com/discovery/item/683c300d000000000f03b1ca?source=webshare&xhsshare=pc_web&xsec_token=AB0PoaiA05YKKE_dU2SOcfxhEzDIPcLsNtqo4slfNuuXw=&xsec_source=pc_share" class="blog-link">
-          <i class="fas fa-language"></i> 中文版
-        </a>
-        <a href="https://jxtse.medium.com/the-limits-of-my-language-are-the-limits-of-my-world-can-we-ever-truly-understand-ai-f7cc72327dac" class="blog-link">
-          <i class="fas fa-globe"></i> English
-        </a>
-      </div>
-    </div>
-  </div>
-
-  <div class="blog-card">
-    <div class="blog-card-image">
-      <div class="blog-badge">January, 2025</div>
-      <img src="images/pic04.jpg" alt="Beyond the Future of AI">
-    </div>
-    <div class="blog-card-content">
-      <div class="blog-title">Beyond the Future of AI: The Dreams and Deceptions of Cryptocurrency</div>
-      <div class="blog-description">My vision of the future: from Bitcoin to an AGI-driven decentralized society. We must design a more sophisticated trust mechanism than blockchain to install “guardrails” for AI.</div>
-      <div class="blog-links">
-        <a href="https://mp.weixin.qq.com/s/luu2qEzPnYAuryJ9mYoJ6Q" class="blog-link">
-          <i class="fas fa-language"></i> 中文版
-        </a>
-        <a href="https://jxtse.medium.com/beyond-the-future-of-ai-the-dreams-and-deceptions-of-cryptocurrency-5da8d4bbf69e" class="blog-link">
-          <i class="fas fa-globe"></i> English
-        </a>
-      </div>
-    </div>
-  </div>
-
-  <div class="blog-card">
-    <div class="blog-card-image">
-      <div class="blog-badge">November, 2024</div>
-      <img src="images/pic05.jpg" alt="LexiMind">
-    </div>
-    <div class="blog-card-content">
-      <div class="blog-title">LexiMind: An Open-Source LLM-Powered Vocabulary Builder</div>
-      <div class="blog-description">LexiMind is an AI-powered vocabulary builder that integrates LLM-based translation with smart word retention.</div>
-      <div class="blog-links">
-        <a href="https://www.xiaohongshu.com/explore/67a48f0d000000001800721c?xsec_token=ABXUfGRE_zHTnXbEyaNmuelNX3M4527lw3zirVu2KJUKA=&xsec_source=pc_user" class="blog-link">
-          <i class="fas fa-info-circle"></i> Introduction
-        </a>
-        <a href="https://github.com/jxtse/LexiMind" class="blog-link">
-          <i class="fab fa-github"></i> Project
-        </a>
-      </div>
-    </div>
-  </div>
-
-  <!-- <div class="blog-card">
-    <div class="blog-card-image">
-      <div class="blog-badge">July, 2024</div>
-      <img src="images/pic02.jpg" alt="NLP Learning Path">
-    </div>
-    <div class="blog-card-content">
-      <div class="blog-title">My NLP Learning Path as a Mathematics Undergraduate Student</div>
-      <div class="blog-description">I share my learning path and some insights on natural language processing as a mathematics undergraduate student.</div>
-      <div class="blog-links">
-        <a href="https://www.xiaohongshu.com/explore/668a35c8000000001e010600?xsec_token=ABl3IEpctnnXxbjsYlUul3nZBcA622VEEpS6zNOEPrxVI=&xsec_source=pc_user" class="blog-link">
-          <i class="fas fa-language"></i> 中文版
-        </a>
-        <a href="https://www.linkedin.com/posts/jinxiang-xie_naturallanguageprocessing-nlp-learningpath-activity-7215638435393359872-dPr8?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEmWk88Bhyvl-E41lfo1McNlpiC4YSsk7WQ" class="blog-link">
-          <i class="fas fa-globe"></i> English
-        </a>
-      </div>
-    </div>
-  </div> -->
-
-  <div class="blog-card">
-    <div class="blog-card-image">
-      <div class="blog-badge">November, 2023</div>
-      <img src="images/pic03.jpg" alt="LLMs Technology">
-    </div>
-    <div class="blog-card-content">
-      <div class="blog-title">LLMs: Cutting-Edge Technology and Future Applications</div>
-      <div class="blog-description">My notes from a presentation on LLMs at the Gaoling School of Artificial Intelligence, Renmin University of China.</div>
-      <div class="blog-links">
-        <a href="https://mp.weixin.qq.com/s?__biz=Mzg5NzczMzM3MA==&mid=2247483926&idx=1&sn=c6dcaf93ec8d7ecaa760df4682589b21" class="blog-link">
-          <i class="fas fa-language"></i> 中文版
-        </a>
-      </div>
-    </div>
-  </div>
-
-</div>
