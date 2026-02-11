@@ -62,7 +62,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">ICLR 2026</div>
-    <img src="{{ '/images/Example_page-0001.png' | relative_url }}" alt="Stability Under Scrutiny" width="100%">
+    <img src="{{ '/images/stablehdmap.png' | relative_url }}" alt="Stability Under Scrutiny" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>Stability Under Scrutiny: Benchmarking Representation Paradigms for Online HD Mapping</h3>
@@ -74,7 +74,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">IV 2024</div>
-    <img src="{{ '/images/Example_page-0002.png' | relative_url }}" alt="E-MLP" width="100%">
+    <img src="{{ '/images/E-MLP.png' | relative_url }}" alt="E-MLP" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>E-MLP: Effortless Online HD Map Construction with Linear Priors</h3>
