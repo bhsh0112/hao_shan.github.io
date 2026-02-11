@@ -86,9 +86,41 @@ Feel free to reach out if you'd like to discuss research or explore potential co
   </div>
 </div>
 
-- Ruikai Li, <strong>Hao Shan</strong>, et al. **MapQP**: End-to-End Vectorized HD Map Construction with Relational Queries and Positional Encoding for Autonomous Driving. *IEEE Transactions on Intelligent Transportation Systems (TITS)*, Under Review. - Second Author
-- Ruikai Li, Zhiyong Cui, <strong>Hao Shan</strong>, et al. **OccDistill**: Boosting Efficient Camera-based 3D Semantic Occupancy Prediction via Multi-modal Guided Distillation for Autonomous Driving. *IEEE Transactions on Multimedia (TMM)*, Under Revision. - Third Author
-- Ruikai Li, Xinrun Li, Mengwei Xie, <strong>Hao Shan</strong>, et al. **AMap**: Distilling Future Priors for Ahead-Aware Online HD Map Construction. *CVPR 2026*, Under Review. - Fourth Author
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">TITS</div>
+    <img src="{{ '/images/head.jpg' | relative_url }}" alt="MapQP" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>MapQP: End-to-End Vectorized HD Map Construction with Relational Queries and Positional Encoding for Autonomous Driving</h3>
+    <div class="authors">Ruikai Li, <strong>Hao Shan</strong>, et al.</div>
+    <div class="venue">IEEE Transactions on Intelligent Transportation Systems (TITS) - Under Review - Second Author</div>
+  </div>
+</div>
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">TMM</div>
+    <img src="{{ '/images/head.jpg' | relative_url }}" alt="OccDistill" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>OccDistill: Boosting Efficient Camera-based 3D Semantic Occupancy Prediction via Multi-modal Guided Distillation for Autonomous Driving</h3>
+    <div class="authors">Ruikai Li, Zhiyong Cui, <strong>Hao Shan</strong>, et al.</div>
+    <div class="venue">IEEE Transactions on Multimedia (TMM) - Under Revision - Third Author</div>
+  </div>
+</div>
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">CVPR 2026</div>
+    <img src="{{ '/images/head.jpg' | relative_url }}" alt="AMap" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>AMap: Distilling Future Priors for Ahead-Aware Online HD Map Construction</h3>
+    <div class="authors">Ruikai Li, Xinrun Li, Mengwei Xie, <strong>Hao Shan</strong>, et al.</div>
+    <div class="venue">CVPR 2026 - Under Review - Fourth Author</div>
+  </div>
+</div>
 
 **Patents (3 national invention patents as 1st/student 1st author):**
 - 镡昊, 崔志勇, 李睿楷, 等. 一种基于体渲染知识蒸馏的在线矢量地图构建方法及装置. 授权发明专利
